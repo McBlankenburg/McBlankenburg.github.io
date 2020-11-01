@@ -79,12 +79,15 @@ font-size: 20px;
 	
 }
 
-.tile4{
+.quotation{
 		margin: 10px;
 		width: 480px;
 		height: 142px;
 		background-color: #ee5a32;
 		text-align: center;
+		color: white;
+	
+		
 }
 
 .tile5{
