@@ -67,6 +67,7 @@
 .icon-mail-alt:before { content: '\f0e0'; font-size: 65px; margin-top: 20px; } /* '' */
 .icon-linkedin:before { content: '\f0e1'; font-size: 75px; margin-top: 20px; } /* '' */
 .icon-doc-text-inv:before { content: '\f15c'; font-size: 65px; margin-top: 20px; } /* '' */
+
 .icon-stackoverflow:before { content: '\f16c'; font-size: 65px; margin-top: 20px; margin-left: 20px } /* '' */
 .icon-user-circle-o:before { content: '\f2be'; font-size: 65px; margin-top: 20px; } /* '' */
 .icon-user:before { content: '👤'; font-size: 65px; margin-top: 20px;} /* '\1f464' */
