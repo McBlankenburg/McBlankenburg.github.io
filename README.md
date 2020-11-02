@@ -1,2 +1,2 @@
-website: McBlankenburg.github.io
+website: https://mcblankenburg.github.io/
 Portfolio
