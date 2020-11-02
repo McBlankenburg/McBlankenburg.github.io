@@ -1,7 +1,6 @@
 @charset "UTF-8";
 
  
-.icon-plus:before { content: '\2b'; } /* '+' */
 .icon-cloudapp:before { content: '\63'; } /* 'c' */
 .icon-mail:before { content: '\2709'; } /* '✉' */
 .icon-plus-1:before { content: '\e0c1'; } /* '' */
@@ -11,7 +10,7 @@
 .icon-github-circled:before { content: '\f09b'; } /* '' */
 .icon-mail-alt:before { content: '\f0e0'; } /* '' */
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
-.icon-doc-text:before { content: '\f0f6'; } /* '' */
 .icon-doc-text-inv:before { content: '\f15c'; } /* '' */
+.icon-stackoverflow:before { content: '\f16c'; } /* '' */
 .icon-user-circle-o:before { content: '\f2be'; } /* '' */
 .icon-user:before { content: '👤'; } /* '\1f464' */

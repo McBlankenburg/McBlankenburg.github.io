@@ -43,12 +43,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "5408be43f7c42bccee419c6be53fdef5",
-      "css": "doc-text",
-      "code": 61686,
-      "src": "fontawesome"
-    },
-    {
       "uid": "ccc2329632396dc096bb638d4b46fb98",
       "css": "mail-alt",
       "code": 61664,
@@ -79,16 +73,16 @@
       "src": "zocial"
     },
     {
-      "uid": "70370693ada58ef0a60fa0984fe8d52a",
-      "css": "plus",
-      "code": 43,
-      "src": "entypo"
-    },
-    {
       "uid": "1gf923f9wvaezxmfon515dglxa3drf0e",
       "css": "plus-1",
       "code": 57537,
       "src": "typicons"
+    },
+    {
+      "uid": "e1597911f34fea0a188ae51fe4a2d9a9",
+      "css": "stackoverflow",
+      "code": 61804,
+      "src": "fontawesome"
     }
   ]
 }
