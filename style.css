@@ -178,13 +178,30 @@ font-size: 20px;
 	
 }
 
+
+
+
+
 .linkedin:hover
 {
 		background-color: #2084c2;
 
 }
 	
+	
+a:link{
+	color:  white;
+}	
+	
 a:visited{
 	color:  white;
 }
 
+a:hover{
+	color:  white;
+	
+}
+
+a:active {
+	color:  white;
+}
